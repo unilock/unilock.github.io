@@ -27,5 +27,13 @@
 				}
 			]
 		}
+	],
+	"news": [
+		{
+			"title": "Placeholder",
+			"identifier": "126B0028-74B3-4223-B84A-5D6739E98439",
+			"caption": "I'm putting this here to fix AltSource, blaaa",
+			"date": "1970-01-01"
+		}
 	]
 }
