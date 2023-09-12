@@ -13,7 +13,6 @@
       "subtitile": "Next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers",
       "localizedDescription": "https://sonolus.com\n\nSonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.\n\nWith a powerful and performant scripting system, you can create any rhythm game engine imaginable.\n\nWhether it's to replicate an existing game or to create an entirely different engine, you can do it all.\n\nSonolus is currently under early development stages.\n\nJoin our community for latest development news and information!\n\nDiscord: https://discord.gg/ysEUZ3D\nQQ: 1126890062 https://jq.qq.com/?_wv=1027&k=3iNyJgRv",
       "iconURL": "https://unilock.cc/sidestore/apps/sonolus/icon.png",
-      "size": "29091396",
       "screenshotURLs": [
         "https://unilock.cc/sidestore/apps/sonolus/sc/1.jpg",
         "https://unilock.cc/sidestore/apps/sonolus/sc/2.jpg",
@@ -26,15 +25,14 @@
           "date": "2023-06-03",
           "localizedDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.0.html",
           "downloadURL": "https://sonolus.com/download/Sonolus_0.7.0.ipa",
-          "size": "29091396"
+          "size": 29091396
         }
       ],
-      "absoluteVersion": "0.7.0",
       "version": "0.7.0",
       "versionDate": "2023-06-03",
       "versionDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.0.html",
       "downloadURL": "https://sonolus.com/download/Sonolus_0.7.0.ipa",
-      "size": "29091396"
+      "size": 29091396
     }
   ]
 }
