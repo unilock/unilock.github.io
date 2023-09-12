@@ -2,6 +2,8 @@
   "name": "unilock's sidestore source",
   "identifier": "cc.unilock.sidestore",
   "sourceURL": "https://unilock.cc/sidestore/source.json",
+  "sourceIconURL": "",
+  "userinfo": {},
   "apps": [
     {
       "name": "Sonolus",
