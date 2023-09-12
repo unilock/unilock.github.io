@@ -2,8 +2,6 @@
   "name": "unilock's sidestore source",
   "identifier": "cc.unilock.sidestore",
   "sourceURL": "https://unilock.cc/sidestore/source.json",
-  "sourceIconURL": "",
-  "userinfo": {},
   "apps": [
     {
       "name": "Sonolus",
@@ -26,13 +24,20 @@
           "localizedDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.0.html",
           "downloadURL": "https://sonolus.com/download/Sonolus_0.7.0.ipa",
           "size": 29091396
+        },
+        {
+          "version": "0.7.2",
+          "date": "2023-08-12",
+          "localizedDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.2.html",
+          "downloadURL": "https://sonolus.com/download/Sonolus_0.7.2.ipa",
+          "size": 29723847
         }
       ],
-      "version": "0.7.0",
-      "versionDate": "2023-06-03",
-      "versionDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.0.html",
-      "downloadURL": "https://sonolus.com/download/Sonolus_0.7.0.ipa",
-      "size": 29091396
+      "version": "0.7.2",
+      "versionDate": "2023-08-12",
+      "versionDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.2.html",
+      "downloadURL": "https://sonolus.com/download/Sonolus_0.7.2.ipa",
+      "size": 29723847
     }
   ]
 }
