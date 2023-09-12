@@ -7,6 +7,7 @@
   "apps": [
     {
       "name": "Sonolus",
+      "appID": "com.FosFenes.Sonolus",
       "bundleIdentifier": "com.FosFenes.Sonolus",
       "developerName": "Sonolus et al.",
       "subtitile": "Next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers",
@@ -25,10 +26,15 @@
           "date": "2023-06-03",
           "localizedDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.0.html",
           "downloadURL": "https://sonolus.com/download/Sonolus_0.7.0.ipa",
-          "size": "29091396",
-          "minOSVersion": "11.0"
+          "size": "29091396"
         }
-      ]
+      ],
+      "absoluteVersion": "0.7.0",
+      "version": "0.7.0",
+      "versionDate": "2023-06-03",
+      "versionDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.0.html",
+      "downloadURL": "https://sonolus.com/download/Sonolus_0.7.0.ipa",
+      "size": "29091396"
     }
   ]
 }
