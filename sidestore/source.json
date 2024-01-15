@@ -33,13 +33,20 @@
           "localizedDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.2.html",
           "downloadURL": "https://sonolus.com/download/Sonolus_0.7.2.ipa",
           "size": 29723847
+        },
+        {
+          "version": "0.7.5_1",
+          "date": "2023-12-30",
+          "localizedDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.5_1.html",
+          "downloadURL": "https://download.sonolus.com/Sonolus_0.7.5_1.ipa",
+          "size": 30354952
         }
       ],
-      "version": "0.7.2",
-      "versionDate": "2023-08-12",
-      "versionDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.2.html",
-      "downloadURL": "https://sonolus.com/download/Sonolus_0.7.2.ipa",
-      "size": 29723847
+      "version": "0.7.5_1",
+      "versionDate": "2023-12-30",
+      "versionDescription": "https://wiki.sonolus.com/release-notes/versions/0.7.5_1.html",
+      "downloadURL": "https://download.sonolus.com/Sonolus_0.7.5_1.ipa",
+      "size": 30354952
     }
   ]
 }
